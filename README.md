@@ -1,1 +1,6 @@
-[README (1).md](https://github.com/user-attachments/files/17535076/README.1.md)
+
+# FASALAB
+
+
+"Developing an AI-based system for rapid detection and diagnosis of plant diseases to enhance agricultural productivity and sustainability."
+
